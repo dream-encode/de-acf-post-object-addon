@@ -8,7 +8,7 @@
   ],
   "license": "MIT",
   "homepage": "https://dream-encode.com",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "package.json",
@@ -21,6 +21,7 @@
   ],
   "devDependencies": {},
   "dependencies": {
-    "select2": "^4.0.3"
+    "select2": "^4.0.3",
+		"iCheck":	"^1.0.2"
   }
 }
