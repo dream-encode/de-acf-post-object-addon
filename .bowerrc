@@ -1,0 +1,7 @@
+{
+  "directory" : "assets/src/vendor",
+	"ignoredDependencies": [
+    "jquery",
+    "jquery-ui"
+  ]
+}
