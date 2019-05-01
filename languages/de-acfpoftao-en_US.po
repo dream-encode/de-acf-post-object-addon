@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: ACF Post Object Addon\n"
+"POT-Creation-Date: 2016-12-08 13:16-0500\n"
+"PO-Revision-Date: 2016-12-08 13:20-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-WPHeader: de-acf-post-object-addon.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: de-acf-post-object-addon.php:108
+msgid "Enable"
+msgstr "Enable"
+
+#: de-acf-post-object-addon.php:121
+msgid "Field To Append"
+msgstr "Field To Append"
+
+#: de-acf-post-object-addon.php:138
+msgid "This field will be displayed after the post title."
+msgstr "This field will be displayed after the post title."
+
+#: de-acf-post-object-addon.php:147
+msgid "Append Field Formatting"
+msgstr "Append Field Formatting"
+
+#: de-acf-post-object-addon.php:164
+msgid "This is how the append field will be formatted."
+msgstr "This is how the append field will be formatted."
+
+#: de-acf-post-object-addon.php:180 de-acf-post-object-addon.php:284
+#: de-acf-post-object-addon.php:298
+msgid "Settings"
+msgstr "Settings"
+
+#: de-acf-post-object-addon.php:181
+msgid ""
+"Settings for ACF Post Object Field Type plugin.  This plugin is specfically "
+"for appending post data to each option for the \"post object\" field type.  "
+"When enabled, the selected fields will be suffixed to each available option "
+"in \"post object\" selects."
+msgstr ""
+"Settings for ACF Post Object Field Type plugin.  This plugin is specfically "
+"for appending post data to each option for the \"post object\" field type.  "
+"When enabled, the selected fields will be suffixed to each available option "
+"in \"post object\" selects."
+
+#: de-acf-post-object-addon.php:476
+msgid "Upload an image"
+msgstr "Upload an image"
+
+#: de-acf-post-object-addon.php:476
+msgid "Use image"
+msgstr "Use image"
+
+#: de-acf-post-object-addon.php:476
+msgid "Upload new image"
+msgstr "Upload new image"
+
+#: de-acf-post-object-addon.php:477
+msgid "Remove image"
+msgstr "Remove image"
+
+#: de-acf-post-object-addon.php:531
+msgid "Post ID"
+msgstr "Post ID"
+
+#: de-acf-post-object-addon.php:562
+msgid "Post Title"
+msgstr "Post Title"
+
+#: de-acf-post-object-addon.php:563
+msgid "Append Field Value"
+msgstr "Append Field Value"
+
+#: de-acf-post-object-addon.php:598
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: de-acf-post-object-addon.php:707
+msgid "is required if"
+msgstr "is required if"
+
+#: de-acf-post-object-addon.php:707
+msgid "is"
+msgstr "is"
+
+#. Plugin Name of the plugin/theme
+msgid "ACF Post Object Addon"
+msgstr "ACF Post Object Addon"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://dream-encode.com/"
+msgstr "https://dream-encode.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"A custom plugin to add ACF data to a post title for the \"Post Object\" "
+"field type in ACF."
+msgstr ""
+"A custom plugin to add ACF data to a post title for the \"Post Object\" "
+"field type in ACF."
+
+#. Author of the plugin/theme
+msgid "David Baumwald"
+msgstr "David Baumwald"

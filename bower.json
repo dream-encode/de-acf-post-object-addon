@@ -1,0 +1,27 @@
+{
+  "name": "de-acf-post-object-addon",
+  "description": "An Advanced Custom Fields(ACF) add-on for WordPress that suffixes custom field values to the post title for the Post Object field type.",
+  "main": "de-acf-post-object-addon.php",
+	"version": "1.1.3",
+  "authors": [
+    "David Baumwald"
+  ],
+  "license": "MIT",
+  "homepage": "https://dream-encode.com",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "docs"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "select2": "^4.0.3",
+		"iCheck":	"^1.0.2"
+  }
+}

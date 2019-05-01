@@ -1,0 +1,10 @@
+{
+  "directory" : "/var/www/html/content/plugins/acf-post-object-field-type-add-on/assets/src/vendor",
+	"ignoredDependencies": [
+    "bootstrap",
+    "bootstrap-sass",
+    "bootstrap-sass-official",
+    "jquery",
+    "jquery-ui"
+  ]
+}

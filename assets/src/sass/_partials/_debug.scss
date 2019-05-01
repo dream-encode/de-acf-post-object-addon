@@ -1,0 +1,14 @@
+.debugArrayFieldset, .debugTextFieldset {
+	background-color: $light-gray;
+	border: 1px solid $medium-gray;
+	border-radius: 4px;
+	z-index: 999999;
+	position: relative;
+	margin: 10px;
+	padding: 15px;
+	color: $black;
+	
+	PRE {
+		text-align: left;
+	}
+}
